@@ -41,6 +41,8 @@ let y = 10;
 // console.log(x < y);
 // console.log(x <= y);
 
+console.log(x <= y);
+
 // console.log(Math.max(5, 10));
 // console.log(Math.min(5, 10));
 
