@@ -62,12 +62,12 @@ function checktruthyValue(value) {
   }
 }
 
-checktruthyValue(1)
-checktruthyValue(0)
-checktruthyValue("hitesh")
-checktruthyValue("")
-checktruthyValue([])
-checktruthyValue([1, 2, 3])
+console.log(checktruthyValue(1));
+console.log(checktruthyValue(0));
+console.log(checktruthyValue("hitesh"));
+console.log(checktruthyValue(""));
+console.log(checktruthyValue([]));
+console.log(checktruthyValue([1, 2, 3]));
 
 
 function login(username, password){
